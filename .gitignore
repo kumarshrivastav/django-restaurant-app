@@ -3,6 +3,7 @@ __pycache__/
 
 # Ignore database file
 db.sqlite3
+.env
 
 # Ignore sensitive or generated settings files
 settings/local_settings.py
