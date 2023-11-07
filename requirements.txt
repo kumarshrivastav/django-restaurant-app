@@ -12,7 +12,7 @@ cryptography==39.0.2
 dateparser==1.1.8
 defusedxml==0.7.1
 distlib==0.3.6
-Django==4.2.7
+Django==4.1.7
 django-templated-mail==1.1.1
 djangorestframework==3.14.0
 djangorestframework-simplejwt==4.8.0
